@@ -1,4 +1,4 @@
-# Boğaziçi University - Data Mining Course Progress Journal
+# IE 582 - Data Mining Course Progress Journal
 
 ## Week 0 (19 September 2018)
 
