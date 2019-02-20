@@ -1,4 +1,4 @@
-# Progress Journal for Statistical Learning for Data Mining Course (IE 582)
+# Boğaziçi University - Data Mining Course Progress Journal
 
 ## Week 0 (19 September 2018)
 
